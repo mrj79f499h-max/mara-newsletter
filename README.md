@@ -1,1 +1,1 @@
-# mara-mewsletter
+# mara-newsletter
